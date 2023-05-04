@@ -16,5 +16,5 @@ homepage: "https://www.oddbytes.com"
 documentation: "https://help.oddbytes.com/en/articles/4819917-how-to-configure-google-tag-manager"
 versions:
   #Newest version
-  - sha: 3dca15629ac880bdcfc1b441d689af6851354bfa
+  - sha: 4f453fd0181f9700a433f616790753553191053a
     changeNotes: Initial release.
